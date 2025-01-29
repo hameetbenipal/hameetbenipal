@@ -20,9 +20,9 @@ A highly motivated software developer with hands-on experience in designing and 
 | EDR Detection and Response                     | SOAR EDR Lab|
 | SOAR Automation, Playbooks and Workflows       | SOAR EDR Lab|
 | Telemetry Generation and Analysis              | SOAR EDR Lab|
-| SIEM Implementation and Log Analysis           | Active Directory / Red Team & Blue Team Simulation|
-| Security Configuration and Role-Based Access   | Active Directory / Red Team & Blue Team Simulation|
-| RedTeam Attack Simulation and Response         | Active Directory / Red Team & Blue Team Simulation|
+| SIEM Implementation and Log Analysis           | <a href="https://github.com/hameetbenipal/Active-Directory-Project">Active Directory/ Red Team and Blue Team Simulation</a>|
+| Security Configuration and Role-Based Access   | <a href="https://github.com/hameetbenipal/Active-Directory-Project">Active Directory/ Red Team and Blue Team Simulation</a>|
+| RedTeam Attack Simulation and Response         | <a href="https://github.com/hameetbenipal/Active-Directory-Project">Active Directory/ Red Team and Blue Team Simulation</a>|
 | Security Automation with Shuffle SOAR          | SOC Automation Lab|
 | Incident Response Planning and Execution       | SOC Automation Lab|
 | Case Management with TheHive                   | SOC Automation Lab|
@@ -70,6 +70,6 @@ A highly motivated software developer with hands-on experience in designing and 
 
 ## Projects
 - SOC Automation Project
-- Active Directory/ Red Team and Blue Team Simulation
+- <a href="https://github.com/hameetbenipal/Active-Directory-Project">Active Directory/ Red Team and Blue Team Simulation</a>
 - SOAR EDR Project
 - SOC Analyst Simulation Project
