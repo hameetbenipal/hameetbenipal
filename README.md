@@ -71,5 +71,5 @@ A highly motivated software developer with hands-on experience in designing and 
 ## Projects
 - SOC Automation Project
 - <a href="https://github.com/hameetbenipal/Active-Directory-Project">Active Directory/ Red Team and Blue Team Simulation</a>
-- SOAR EDR Project
+- <a href="https://github.com/hameetbenipal/SOAR-EDR-Project">SOAR EDR Project
 - SOC Analyst Simulation Project
