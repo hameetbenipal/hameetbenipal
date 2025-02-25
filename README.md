@@ -41,6 +41,7 @@ A highly motivated software developer with hands-on experience in designing and 
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic%20Defend-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### SIEM
@@ -60,6 +61,8 @@ A highly motivated software developer with hands-on experience in designing and 
 <div>
     <img src="https://img.shields.io/badge/-TheHive-FADA5E?&style=for-the-badge&logo=TheHive&logoColor=black" />
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snyk-4C4A73?&style=for-the-badge&logo=Snyk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" />
 </div>
 
 
@@ -68,8 +71,9 @@ A highly motivated software developer with hands-on experience in designing and 
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA2027?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+
 ## Projects
 - SOC Automation Project
 - <a href="https://github.com/hameetbenipal/Active-Directory-Project">Active Directory/ Red Team and Blue Team Simulation</a>
 - <a href="https://github.com/hameetbenipal/SOAR-EDR-Project">SOAR EDR Project
-- SOC Analyst Simulation Project
+- <a href="https://github.com/hameetbenipal/SOC-Analyst-Simulation-Project">SOC Analyst Simulation Project
